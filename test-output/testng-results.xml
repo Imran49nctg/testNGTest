@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T02:23:41 EDT" name="Default suite" finished-at="2023-06-23T02:23:41 EDT" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T02:23:41 EDT" name="Default test" finished-at="2023-06-23T02:23:41 EDT" duration-ms="63">
+      <class name="TestNG.TestNG">
+        <test-method signature="login()[pri:0, instance:TestNG.TestNG@3fb1549b]" started-at="2023-06-23T02:23:41 EDT" name="login" finished-at="2023-06-23T02:23:41 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestNG.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
